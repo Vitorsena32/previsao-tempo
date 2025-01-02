@@ -11,3 +11,5 @@ O objetivo deste projeto é desenvolver uma aplicação que exibe a temperatura 
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt= " logo-html"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javascript" />
+
+![image](https://github.com/user-attachments/assets/a2287ca8-c99f-49b1-a1b4-d176aa74679b)
